@@ -6,7 +6,7 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import java.lang.reflect.Type
 
-object ServiceBulider {
+object ServiceBuilder {
     //create okhttp client
     private val okHttp: OkHttpClient.Builder = OkHttpClient.Builder()
 
