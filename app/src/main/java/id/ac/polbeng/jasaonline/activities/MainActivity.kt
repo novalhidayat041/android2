@@ -1,4 +1,4 @@
-package id.ac.polbeng.jasaonline
+package id.ac.polbeng.jasaonline.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -11,6 +11,10 @@ import androidx.drawerlayout.widget.DrawerLayout
 import androidx.fragment.app.FragmentTransaction
 import com.google.android.material.navigation.NavigationView
 import com.google.android.material.snackbar.Snackbar
+import id.ac.polbeng.jasaonline.BerandaFragment
+import id.ac.polbeng.jasaonline.JasaFragment
+import id.ac.polbeng.jasaonline.ProfileFragment
+import id.ac.polbeng.jasaonline.R
 import kotlinx.android.synthetic.main.activity_main.*
 class MainActivity : AppCompatActivity(),
     NavigationView.OnNavigationItemSelectedListener {
