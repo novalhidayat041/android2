@@ -14,9 +14,9 @@ data class User(
     var jenisKelamin:String? = null,
     @SerializedName("nomor_hp")
     var nomorHP:String? = null,
-    @SerializedName("ALAMAT")
+    @SerializedName("alamat")
     var alamat: String? = null,
-    @SerializedName("EMAIL")
+    @SerializedName("email")
     var email: String? = null,
     @SerializedName("password")
     var password: String? = null

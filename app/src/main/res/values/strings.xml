@@ -22,4 +22,21 @@
     <string name="judul_daftar">Tidak punya akun, <b>Daftar</b></string>
     <string name="lupa_password">Lupa <b>Password?</b></string>
     <string name="atau_login">Atau login dengan</string>
+
+    <!--fragment profile-->
+    <string name="nama">Nama</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="waktu_sesi">Waktu Sesi</string>
+
+    <string name="alamat">Alamat</string>
+    <string name="myname">Muhammad Noval Hidayat</string>
+    <string name="mybirth">1 November 2001</string>
+    <string name="mygender">Pria</string>
+    <string name="myphone">0822-1457-8080</string>
+    <string name="myaddres">Jl. Bantan, Gg.A.Rahman Desa Senggoro Bengkalis - Riau</string>
+    <string name="myemail">mnovalhidayat298@gmail.com</string>
+    <string name="mysession">09-10-2022 09:00:00</string>
+    <string name="edit_profil">Ubah Profil</string>
+    <string name="hapus_akun">Hapus Akun</string>
  </resources>
